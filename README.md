@@ -11,5 +11,6 @@ Wikipedia definition "<i>Federated learning (also known as collaborative learnin
 
 ### Workshop Materials<br>
 - PPT [link](https://docs.google.com/presentation/d/1jyFnKU7uLYM58w2nzq2BqLQ5xMuBibfloJCS2MFZrgE/edit?usp=sharing) (google slides)
+- Colab [link](https://colab.research.google.com/drive/1VuEO2BX0T-pLXTYQmBsVLvPBRSaLq1OI?usp=sharing)
 <br>
 <i>*Don't worry, just breeze through the suggested material.</i>
