@@ -8,5 +8,8 @@ Wikipedia definition "<i>Federated learning (also known as collaborative learnin
 - Basic understanding of neural networks and their layers
   - [Significane of various layers in neural networks](https://iq.opengenus.org/purpose-of-different-layers-in-ml/#:~:text=Layers%20are%20made%20up%20of,to%20the%20number%20of%20layers.). 
   - [Neural Network implemntation on fashion MNIST](https://becominghuman.ai/step-by-step-neural-network-tutorial-for-beginner-cc71a04eedeb).
+
+### Workshop Materials<br>
+- PPT [link](https://docs.google.com/presentation/d/1jyFnKU7uLYM58w2nzq2BqLQ5xMuBibfloJCS2MFZrgE/edit?usp=sharing) (google slides)
 <br>
 <i>*Don't worry, just breeze through the suggested material.</i>
